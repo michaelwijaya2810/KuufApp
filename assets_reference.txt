@@ -1,0 +1,12 @@
+Mobile Community Solution - BA03
+Quiz
+
+Assets used in this app:
+
+1. cah.jpg, downloaded from: https://store.cardsagainsthumanity.com
+2. exp_kittens.jpg, downloaded: https://www.explodingkittens.com/products/exploding-kittens-original-edition
+3. Montserrat Font Family, downloaded from: https://fonts.google.com/specimen/Montserrat
+4. Lato Font Family, downloaded from: https://fonts.google.com/specimen/Lato
+
+Michael Wijaya
+2301858465
